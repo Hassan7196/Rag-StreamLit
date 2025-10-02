@@ -1,7 +1,0 @@
-streamlit
-langchain-community==0.0.35
-langchain-core==0.2.16
-huggingface-hub==0.23.4
-sentence-transformers
-faiss-cpu
-pypdf
